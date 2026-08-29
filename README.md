@@ -3,7 +3,7 @@ Solving interesting problems from Stepik and beyond
 
 # Learning Path: Python & Physics Simulation
 
-Welcome to my repository! I am a 16-year-old software engineering student at VITI NAIU MEPhI. This repository serves as an archive of my educational journey, programming achievements, and future physics projects.
+Welcome to my repository! I am a 16-year-old software engineering student at VITI NRNU MEPhI. This repository serves as an archive of my educational journey, programming achievements, and future physics projects.
 
 ## 🎯 My Goals
 * Complete Python tracks (Stepik & beyond)
